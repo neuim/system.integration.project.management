@@ -1,4 +1,4 @@
-# system.integration.project.management
+# 信息系统集成项目管理相关知识整理
 
 ## [第一章 信息化知识](./markdown/01信息化知识.md)
 
